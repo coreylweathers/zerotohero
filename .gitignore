@@ -362,3 +362,4 @@ MigrationBackup/
 
 # Add VS Code files
 *.vscode/
+**/*.assets.cache
