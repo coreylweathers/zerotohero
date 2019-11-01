@@ -96,6 +96,7 @@ StyleCopReport.xml
 *.svclog
 *.scc
 
+
 # Chutzpah Test files
 _Chutzpah*
 
@@ -354,3 +355,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Added files
+# Added VS Solution files
+*.sln
+
+# Add VS Code files
+*.vscode/
